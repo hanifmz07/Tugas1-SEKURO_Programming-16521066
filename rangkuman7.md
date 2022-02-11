@@ -19,9 +19,13 @@ Misalkan kita sudah membuat 2 file cpp berikut (helloworld.cpp dan kuadrat.cpp),
 ![](https://cdn.discordapp.com/attachments/941701680100151326/941717499647520849/unknown.png)
 
 Ketika kita sudah menambahkan file .gitignore yang menyebabkan .exe tidak ter-commit, file .exe tidak akan ikut ter-add.
+
 ![](https://cdn.discordapp.com/attachments/941701680100151326/941721130497081384/unknown.png)
+
 ![](https://cdn.discordapp.com/attachments/941701680100151326/941717628320378930/unknown.png)
 
 Terakhir, push repo local ke GitHub.
+
 ![](https://cdn.discordapp.com/attachments/941701680100151326/941718283051204609/unknown.png)
+
 ![](https://cdn.discordapp.com/attachments/941701680100151326/941721464409825280/unknown.png)

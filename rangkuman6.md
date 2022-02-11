@@ -35,7 +35,9 @@ Cara merge branch dengan master branch dapat menggunakan git merge <nama_branch>
 Merge ada 2 jenis, yaitu ada Fast Forward dan Three-Way Merge. Fast Forward merge terjadi ketika 2 branch yang akan di merge terhubung secara langsung. Sementara Three-Way merge terjadi ketika 2 branch yang akan di-merge tidak terhubung secara langsung.
 
 Berikut contoh Fast Forward merge:
+
 ![](https://cdn.discordapp.com/attachments/941701680100151326/941707675803189288/unknown.png)
 
 Contoh Three-Way merge:
+
 ![](https://cdn.discordapp.com/attachments/941701680100151326/941707838068256768/unknown.png)
